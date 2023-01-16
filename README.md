@@ -12,6 +12,7 @@ https://discord.gg/EXbe8ybGzs
 
 ## 📝 Few Updates (12/13/2022) :
 - Improved Speed/Reliability
+- Improved Image Rendering
 - Improved Loading Times
 - Improved Edited Images Quality/Loading Time
 - Removed un needed tabs and menus
